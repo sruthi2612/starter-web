@@ -4,7 +4,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is just a sample README file
+This is just a sample README file to check the working
 
 ## Deployment
 
