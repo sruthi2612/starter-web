@@ -3,12 +3,13 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
+This is just a sample README file
 
-##Deployment
+## Deployment
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
-##How to Contribute
+## How to Contribute
