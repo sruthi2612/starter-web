@@ -4,6 +4,7 @@ git
 This repository is for showing how Git and GitHub work
 
 Adding a line for rebsing example,then more changes for myfeature branch too
+Updating for stashing
 ## Introduction
 This is just a sample README file to check the working
 
