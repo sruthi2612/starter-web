@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Sruthi
+	sruthibasava26@gmail.com
 
     <name> -- <role> -- <twitter>
 
