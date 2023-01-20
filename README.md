@@ -13,6 +13,6 @@ This is just a sample README file to check the working
 Sample website with plenty of files for demos
 
 ## How to Contribute
-
+Please fork this repository
 ## Copyright
 2014 Git.Training
